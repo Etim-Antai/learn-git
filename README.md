@@ -29,3 +29,9 @@ Request a review and respond professionally.
 
 # Contributors
 Etim Antai (@Etim-Antai)
+
+
+
+
+### Conflict Simulation by @Etim-Antai
+Practicing how to handle merge conflicts in Git.
